@@ -1,13 +1,7 @@
-Tek Kullanıcılı Komponent Envanter Uygulaması
-
-## Kullanım
-
-1. Tarayıcınızda `http://127.0.0.1:8000` adresine gidin.
-2. Giriş yapın.
-3. Ürünlerinizi ekleyin, düzenleyin veya silebilirsiniz.
+# Tek Kullanıcılı Komponent Envanter Uygulaması
+## özel kullanıma uygun django altyapısı ile python dili ile kodlanmıştır
 
 ## Katkılar
-
 Katkılarınızı memnuniyetle karşılıyoruz. Lütfen önerilerinizi veya hataları GitHub üzerinden bildirin.
 
 _OpenStockMate, Python ve Django kullanılarak geliştirilmiş özel kullanıma uygun tek kullanıcılı bir envanter uygulamasıdır. 
@@ -40,8 +34,19 @@ python manage.py runserver
 
 7. Tarayıcınızda `http://127.0.0.1:8000` adresine gidin ve uygulamayı görüntüleyin.
 
+## Kullanım
+
+1. Tarayıcınızda `http://127.0.0.1:8000` adresine gidin.
+2. Giriş yapın.
+3. Ürünlerinizi ekleyin, düzenleyin veya silebilirsiniz.
+
+
+
 ### Stok Sayfası
 ![Stok Sayfası](https://github.com/OpenStockMate/DjangoApp/blob/main/homepage.png?raw=true)
+
+## popup 
+![Popup](https://github.com/OpenStockMate/DjangoApp/blob/main/popup.png?raw=true)
 
 ## modeller
 ![Models](https://raw.githubusercontent.com/OpenStockMate/DjangoApp/main/new_models.png)
