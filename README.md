@@ -1,12 +1,12 @@
 # Tek Kullanıcılı Komponent Envanter Uygulaması
-## özel kullanıma uygun django altyapısı ile python dili ile kodlanmıştır
+özel kullanıma uygun django altyapısı ile python dili ile kodlanmıştır
 
 ## Katkılar
 Katkılarınızı memnuniyetle karşılıyoruz. Lütfen önerilerinizi veya hataları GitHub üzerinden bildirin.
 
-_OpenStockMate, Python ve Django kullanılarak geliştirilmiş özel kullanıma uygun tek kullanıcılı bir envanter uygulamasıdır. 
+#### OpenStockMate, Python ve Django kullanılarak geliştirilmiş özel kullanıma uygun tek kullanıcılı bir envanter uygulamasıdır. 
 Bu uygulama, kullanıcıların envanterlerini yönetmelerine ve takip etmelerine olanak tanır.
-_
+
 ## Özellikler
 
 - Ürünlerin eklenmesi, düzenlenmesi ve silinmesi
