@@ -18,10 +18,9 @@ Katkılarınızı memnuniyetle karşılıyoruz. Lütfen önerilerinizi veya hata
 
 cd openstockmate
 python -m venv env
-**Windows kullanıcıları için: env\Scripts\activate
-**
 source env/bin/activate 
 pip install -r requirements.txt
+
 3. Veritabanını oluşturun ve örnek verileri yükleyin:
 python manage.py migrate
 
@@ -29,6 +28,8 @@ python manage.py migrate
 python manage.py runserver
 
 7. Tarayıcınızda `http://127.0.0.1:8000` adresine gidin ve uygulamayı görüntüleyin.
+
+(Windows kullanıcıları için: env\Scripts\activate)
 
 ## Kullanım
 
