@@ -39,6 +39,5 @@ python manage.py migrate
 python manage.py runserver
 
 7. Tarayıcınızda `http://127.0.0.1:8000` adresine gidin ve uygulamayı görüntüleyin.
-
-
+![Models](https://raw.githubusercontent.com/OpenStockMate/DjangoApp/main/new_models.png)
 
